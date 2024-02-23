@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+.text > p{
+    width: 50%;
+    height: 60px;
+    margin: 20px auto;
+    border: 3px solid rgb(50, 50, 50);
+    background-color: rgb(200, 235, 241);
+    padding-top: 20px;
+    text-align: center; 
+    border-style: none;
+}
+
+.text >p:nth-child(2){
+  border-style:ridge;
+}
+
+.text >p:nth-child(3){
+  border-style: dashed;
+}
+
+

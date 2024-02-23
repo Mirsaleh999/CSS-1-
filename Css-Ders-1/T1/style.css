@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.task1 p {
+  width: 60%;
+  height: 100px;
+  margin: 20px auto;
+  border: 3px solid rgb(74, 72, 72);
+  background-color: rgb(99, 146, 168);
+  padding-top: 10px;
+  
+}
+
+.task1 p:nth-child(1){
+    text-align: left;
+}
+
+.task1 >p:nth-child(2){
+   text-align: center; 
+}
+
+.task1 >p:nth-child(3){
+    text-align: right; 
+ }
+
+ .task1 >p:nth-child(4){
+    text-align: center; 
+ }
+

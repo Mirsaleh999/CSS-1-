@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  width: 60%;
+  border: 1px solid black;
+  margin: 50px auto;
+  box-shadow: 2px 2px 5px 5px lightslategray;
+}
+
+.header,
+.footer,
+.text {
+  padding: 20px;
+  background-color: rgb(28, 89, 168);
+}
+
+.text {
+  background-color: #fff;
+}
+
+.header h1,
+.footer span {
+  color: #fff;
+}

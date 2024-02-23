@@ -1,0 +1,216 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Source Sans 3", sans-serif;
+}
+
+.section1 {
+  height: 750px;
+  background-size: cover;
+  background-position: center 60%;
+  background-repeat: no-repeat;
+  background-image: url("https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg");
+}
+
+.page1 {
+  text-align: center;
+  padding: 200px;
+  font-size: 40px;
+  margin: 0;
+}
+
+.button {
+  background-color: #3498db;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 20px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.page1 h6 {
+  margin-bottom: 3rem !important;
+}
+.page1 h1 {
+  margin-bottom: 0.25rem !important;
+  font-size: 90px;
+}
+
+.page1 h6 {
+  font-style: italic;
+}
+
+.section2 {
+  padding-top: 7.5rem;
+  padding-bottom: 7.5rem;
+  text-align: center !important;
+  justify-content: center !important;
+}
+.text1 h2 {
+  font-size: calc(1.325rem + 0.9vw);
+}
+
+.text1 h2 {
+  margin-bottom: 10px;
+}
+
+.textp1 {
+  margin-bottom: 3rem !important;
+  font-size: 17px;
+}
+
+.section2 .button1 {
+  background-color: black;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 20px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.section3 {
+  padding-top: 7.5rem;
+  padding-bottom: 7.5rem;
+  background-color: #1d809f;
+}
+
+.container2 .text2 {
+  text-align: center;
+}
+
+.container2 .text2 h3 {
+  text-align: center;
+  color: #ecb807;
+}
+
+.container2 .text2 h2 {
+  font-size: 50px;
+  color: #fff;
+}
+
+.icons1 {
+  display: flex;
+  padding-top: 7.5rem;
+  padding-bottom: 7.5rem;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.section4 {
+  height: 750px;
+  background-size: cover;
+  background-position: center 60%;
+  background-repeat: no-repeat;
+  background-image: url("https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg");
+}
+
+.container3 {
+  text-align: center;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  box-sizing: border-box;
+}
+
+.container3,
+.text5 {
+  text-align: center;
+  padding: 70px;
+  font-size: 49px;
+  margin-bottom: 2px !important;
+  font-weight: 700;
+  display: block;
+  max-width: 40rem;
+}
+
+.container3 .text5 h2 {
+  font-weight: 600px;
+}
+
+.section5 {
+  box-sizing: border-box;
+  padding-top: 7.5rem;
+  padding-bottom: 7.5rem;
+  display: block;
+}
+
+.container4,
+h3,
+h2 {
+  text-align: center;
+}
+
+.container4 .text6 h3 {
+  font-size: 20px;
+  color: #ecb807;
+}
+
+.container4,
+.text6,
+h2 {
+  font-size: 45px;
+}
+
+/* Qeyd : section-5 davamini yazacam bu hisseye */
+
+.section6 {
+  width: 100%;
+  padding-top: 7.5rem;
+  padding-bottom: 7.5rem;
+  display: block;
+  background-color: #1d809f;
+  text-align: center;
+}
+
+
+
+.section5 .button2 {
+  background-color: black;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 20px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.section7 {
+  padding-bottom: 7.5rem;
+}
+.map iframe  {
+  width: 100%;
+  height: 30rem;
+}
+
+
+.section8{
+  padding-top: 4rem;
+  padding-bottom: 5rem;
+  text-align: center !important;
+  display: block;
+}
+
+.container6{
+  padding-right: 1.5rem !important;
+  padding-left: 1.5rem !important;
+  max-width: 720px;
+  width: 100%;
+  display: block;
+}
+
+
+.section8, .sec8{
+color: #6c757d !important;
+}
